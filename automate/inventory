@@ -9,3 +9,8 @@
 [aws:children]
 master
 worker
+[nfsserver]
+#3.138.120.145
+192.168.198.133
+[nfsclient]
+192.168.198.138
